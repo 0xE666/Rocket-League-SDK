@@ -1,4 +1,4 @@
-updated rocket league sdk to version: 220114.63961.361013
+updated rocket league sdk to version: 220128.59469.363257
 
 ill update as much as i can
 
